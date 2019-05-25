@@ -13,7 +13,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_4 (8)", "Lab_4\Lab_4.vc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Non C++", "Non C++", "{0213E6C2-AE0F-432A-8FBF-1620D7CDA101}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab_3", "Lab_3", "{AB964029-FB14-4CD2-8F20-D26C1B9D018A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab 3", "Lab 3", "{AB964029-FB14-4CD2-8F20-D26C1B9D018A}"
 	ProjectSection(SolutionItems) = preProject
 		Newton.m = Newton.m
 	EndProjectSection
@@ -28,9 +28,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab 10", "Lab 10", "{F40006
 		Lab_6\lab_10.mcdx = Lab_6\lab_10.mcdx
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_8", "Lab_8\Lab_8.vcxproj", "{C317E13B-C403-4DCA-8F90-1828260AFE55}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_8 (4)", "Lab_8\Lab_8.vcxproj", "{C317E13B-C403-4DCA-8F90-1828260AFE55}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_13", "Lab_13\Lab_13.vcxproj", "{FF9FCD1E-DB72-4B0F-A8FB-F32B09385895}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab 14", "Lab 14", "{43E1A258-F4FC-4220-9B7B-8C76C952D233}"
+	ProjectSection(SolutionItems) = preProject
+		Lab_14\lab_14.mcdx = Lab_14\lab_14.mcdx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab 15", "Lab 15", "{3820D57F-F337-4865-9197-36F7367D74D5}"
+	ProjectSection(SolutionItems) = preProject
+		Lab_15\lab_15.mcdx = Lab_15\lab_15.mcdx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -96,6 +106,8 @@ Global
 		{AB964029-FB14-4CD2-8F20-D26C1B9D018A} = {0213E6C2-AE0F-432A-8FBF-1620D7CDA101}
 		{E8F9ED95-5E44-45EF-9636-BE9B721F7538} = {0213E6C2-AE0F-432A-8FBF-1620D7CDA101}
 		{F4000607-D921-4EB6-915E-C240C93DD193} = {0213E6C2-AE0F-432A-8FBF-1620D7CDA101}
+		{43E1A258-F4FC-4220-9B7B-8C76C952D233} = {0213E6C2-AE0F-432A-8FBF-1620D7CDA101}
+		{3820D57F-F337-4865-9197-36F7367D74D5} = {0213E6C2-AE0F-432A-8FBF-1620D7CDA101}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E50F21E7-0A0F-405B-83C9-4D50CA946716}
