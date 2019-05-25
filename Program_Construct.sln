@@ -11,6 +11,18 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_3", "Lab_3\Lab_3.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_4", "Lab_4\Lab_4.vcxproj", "{7741DA08-754C-4DB2-AD13-AF992EB13992}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Non C++", "Non C++", "{0213E6C2-AE0F-432A-8FBF-1620D7CDA101}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab_3", "Lab_3", "{AB964029-FB14-4CD2-8F20-D26C1B9D018A}"
+	ProjectSection(SolutionItems) = preProject
+		Newton.m = Newton.m
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab 5", "Lab 5", "{E8F9ED95-5E44-45EF-9636-BE9B721F7538}"
+	ProjectSection(SolutionItems) = preProject
+		Lab_5\lab_5.mcdx = Lab_5\lab_5.mcdx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -54,6 +66,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB964029-FB14-4CD2-8F20-D26C1B9D018A} = {0213E6C2-AE0F-432A-8FBF-1620D7CDA101}
+		{E8F9ED95-5E44-45EF-9636-BE9B721F7538} = {0213E6C2-AE0F-432A-8FBF-1620D7CDA101}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E50F21E7-0A0F-405B-83C9-4D50CA946716}
