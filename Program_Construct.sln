@@ -23,6 +23,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab 5", "Lab 5", "{E8F9ED95
 		Lab_5\lab_5.mcdx = Lab_5\lab_5.mcdx
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab 6", "Lab 6", "{F4000607-D921-4EB6-915E-C240C93DD193}"
+	ProjectSection(SolutionItems) = preProject
+		Lab_6\lab_6.mcdx = Lab_6\lab_6.mcdx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -70,6 +75,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{AB964029-FB14-4CD2-8F20-D26C1B9D018A} = {0213E6C2-AE0F-432A-8FBF-1620D7CDA101}
 		{E8F9ED95-5E44-45EF-9636-BE9B721F7538} = {0213E6C2-AE0F-432A-8FBF-1620D7CDA101}
+		{F4000607-D921-4EB6-915E-C240C93DD193} = {0213E6C2-AE0F-432A-8FBF-1620D7CDA101}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E50F21E7-0A0F-405B-83C9-4D50CA946716}
